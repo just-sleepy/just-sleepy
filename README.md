@@ -1,6 +1,7 @@
 ~ he/him ~ <br />
 ~ 19y ~ <br />
 ~ prob playing lol or watching anime ~
+~"programmed to work and not to feel"~
 <div>
   <a href="https://github.com/just-sleepy">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=just-sleepy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
