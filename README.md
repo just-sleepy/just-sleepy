@@ -24,6 +24,6 @@
   <tr>
     <td> <a href="https://steamcommunity.com/id/belphyuwu/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> </td>
     <td>  <img align="center" alt="belphy-kokichi" width="80"src="https://media.discordapp.net/attachments/821108828548235298/882688640675905576/kokichipixgif.gif"> </td>
-    <td>  <h3> <a href="https://github.com/just-sleepy"><font color=white>present_day(); present_time(); //hahahahahaha!</font></a> </h3> </td>
+    <td> <h3> present_day(); present_time(); //hahahahahaha! <h3> </td>
   </tr>
 </table>
