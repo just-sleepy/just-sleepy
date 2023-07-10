@@ -10,7 +10,6 @@
   <img align="center" alt="belphy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="belphy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="belphy-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="belphy-Assembly" height="30" width="40" src="https://cdn.discordapp.com/attachments/821108828548235298/882912499215790080/images.png">
 </div>
   
   ##
