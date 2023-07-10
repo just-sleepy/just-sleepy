@@ -1,6 +1,5 @@
-~ he/him ~ <br />
-~ 19y ~ <br />
-~ prob playing lol or watching anime ~ <br />
+~ any pronouns ~ <br />
+~ 21y ~ <br />
 ~ "programmed to work and not to feel" ~
 <div>
   <a href="https://github.com/just-sleepy">
