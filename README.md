@@ -1,6 +1,6 @@
-- any pronouns ~ <br />
-- 21y ~ <br />
-- "programmed to work and not to feel" - Hello World ~
+- any pronouns <br />
+- 21y <br />
+- "programmed to work and not to feel" - Hello World
 - competitive programming and some college stuffs
 <div>
   <a href="https://github.com/just-sleepy">
